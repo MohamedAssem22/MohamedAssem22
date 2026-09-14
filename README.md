@@ -26,28 +26,33 @@ Backend-focused Software Engineering candidate with a deep interest in low-level
 
 ---
 
-### 💻 Technical Skills
+### 💻 Programming Languages
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Backend & Frameworks</h4>
-      <ul>
-        <li><b>Languages:</b> C#, C++, JavaScript, Python</li>
-        <li><b>Frameworks:</b> .NET Core / ASP.NET, Node.js</li>
-        <li><b>Databases:</b> SQL Databases, Relational Schema Design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠 Tools & Engineering Practices</h4>
-      <ul>
-        <li><b>Version Control:</b> Git, GitHub Workflow, Branching Strategies</li>
-        <li><b>Concepts:</b> Data Structures, Algorithms, OOP, SOLID Principles</li>
-        <li><b>Collaboration:</b> Code Reviews, Teamwork & Agile Practices</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🚀 Frameworks & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Relational_Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🛠 Tools & Engineering Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Teamwork-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FF6C37?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=for-the-badge" />
+</p>
 
 ---
 
