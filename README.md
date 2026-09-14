@@ -8,6 +8,9 @@
   <a href="https://codeforces.com/profile/AsemoGG">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Asemo505/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="mailto:massem539@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -22,6 +25,7 @@ Backend-focused Software Engineering candidate with a deep interest in low-level
 
 ### 🏆 Engineering & Achievements
 * **ECPC Finalist**: Ranked among the top competitive programmers nationally, solving complex algorithmic & graph-theory problems under strict time/memory constraints.
+* **Problem Solver**: Active competitive programmer on [Codeforces (AsemoGG)](https://codeforces.com/profile/AsemoGG) and [LeetCode (Asemo505)](https://leetcode.com/u/Asemo505/).
 * **Core Foundations**: Strong grasp of **Operating Systems** (Concurrency, Process Management, Memory allocation) and **Database Systems** (Indexing, Normalization, Query Optimization).
 
 ---
@@ -49,7 +53,7 @@ Backend-focused Software Engineering candidate with a deep interest in low-level
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Teamwork-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-FF6C37?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/Asemo505/"><img src="https://img.shields.io/badge/Problem_Solving-FF6C37?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/SOLID_Principles-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=for-the-badge" />
 </p>
