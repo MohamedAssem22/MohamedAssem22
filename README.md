@@ -1,42 +1,65 @@
-# ⚡ Hi, I'm Mohamed Assem 
-### 🚀 Aspiring Software Engineer | Backend Developer (`.NET`)
+<div align="center">
+  <h1>Hi there, I'm Mohamed Assem 👋</h1>
+  <p><strong>Aspiring Software Engineer | Backend & Distributed Systems Specialist</strong></p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-assem-316618217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:massem539@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/AsemoGG"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/mohamed-assem-316618217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/AsemoGG">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:massem539@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
----
+<br/>
 
-### 👨‍💻 About Me
-- 🏆 **ECPC Finalist** & Passionate Competitive Programmer (`AsemoGG` on Codeforces).
-- ⚙️ Currently focusing on **Backend Engineering** using **.NET & C#**.
-- 💡 Strong foundation in **Problem Solving**, **Operating Systems**, and **Databases**.
-- 🤝 Experienced in team collaboration using **Git & GitHub Teamwork**.
-- 📫 Reach out to me: **massem539@gmail.com**
-
----
-
-### 🛠️ Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧰 Tools & Concepts
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 🎯 Executive Summary
+Backend-focused Software Engineering candidate with a deep interest in low-level concepts, software architecture, and system scalability. Proven track record in algorithmic problem-solving with high-level achievements in national programming contests. Currently engineering robust web APIs and enterprise solutions using the **.NET Ecosystem**.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAssem22&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAssem22&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 🏆 Engineering & Achievements
+* **ECPC Finalist**: Ranked among the top competitive programmers nationally, solving complex algorithmic & graph-theory problems under strict time/memory constraints.
+* **Core Foundations**: Strong grasp of **Operating Systems** (Concurrency, Process Management, Memory allocation) and **Database Systems** (Indexing, Normalization, Query Optimization).
+
+---
+
+### 💻 Technical Skills
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Backend & Frameworks</h4>
+      <ul>
+        <li><b>Languages:</b> C#, C++, JavaScript, Python</li>
+        <li><b>Frameworks:</b> .NET Core / ASP.NET, Node.js</li>
+        <li><b>Databases:</b> SQL Databases, Relational Schema Design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠 Tools & Engineering Practices</h4>
+      <ul>
+        <li><b>Version Control:</b> Git, GitHub Workflow, Branching Strategies</li>
+        <li><b>Concepts:</b> Data Structures, Algorithms, OOP, SOLID Principles</li>
+        <li><b>Collaboration:</b> Code Reviews, Teamwork & Agile Practices</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub & Coding Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAssem22&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAssem22&layout=compact&theme=dark&hide_border=true&langs_count=6" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed with precision by Mohamed Assem</sub>
+</div>
